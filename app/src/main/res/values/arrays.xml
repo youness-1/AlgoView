@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tileType">
+        <item>Erase</item>
+        <item>Wall</item>
+        <item>StartPoint</item>
+        <item>StopPoint</item>
+    </string-array>
+</resources>
